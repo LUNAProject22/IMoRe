@@ -13,7 +13,8 @@ Chen Li*, Chinthani Sugandhika*, Yeo Keat Ee, Eric Peh, Hao Zhang, Hong Yang, De
 Existing human motion Q&A methods rely on explicit program execution, where the requirement for manually defined functional modules may limit the scalability and adaptability. To overcome this, we propose an implicit program-guided motion reasoning (IMoRe) framework that unifies reasoning across multiple query types without manually designed modules. Unlike existing implicit reasoning approaches that infer reasoning operations from question words, our model directly conditions on structured program functions, ensuring a more precise execution of reasoning steps. Additionally, we introduce a program-guided reading mechanism, which dynamically selects multi-level motion representations from a pretrained motion Vision Transformer (ViT), capturing both high-level semantics and fine-grained motion cues. The reasoning module iteratively refines memory representations, leveraging structured program functions to extract relevant information for different query types. Our model achieves state-of-the-art performance on Babel-QA and generalizes to a newly constructed motion Q&A dataset based on HuMMan, demonstrating its adaptability across different motion reasoning datasets.
 
 ## Program-Guided Reasoning Process
- for Human Motion Q&A
+ <!-- for Human Motion Q&A -->
+<!-- ![Situational Scene Graph](image.png) -->
 <div style="display: flex; justify-content: center;">
   <img src="assets/Architecture.png" alt="IMoRe_architecture" width="800"/>
 </div>

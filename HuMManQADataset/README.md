@@ -35,7 +35,7 @@ You can access the HuMMan-QA dataset [here](https://drive.google.com/drive/folde
 
 
 ## Citation
-If you use this dataset for your research work, please cit our paper:
+If you use this dataset for your research work, please cite our paper:
 ```bibtext
 To be added...
 ```

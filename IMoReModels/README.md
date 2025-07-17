@@ -54,4 +54,4 @@ To be added...
 
 ## Acknowledgments
 Our code is inspired by [NSPose](https://github.com/markendo/HumanMotionQA).
-We obtained the motion weights from [Motion Vit](https://github.com/line/MotionPatches).
+We obtained the motion weights from [Motion ViT](https://github.com/line/MotionPatches).
