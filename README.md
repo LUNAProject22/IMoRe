@@ -2,9 +2,11 @@
 
 This repository contains the official PyTorch implementation of the paper:
 
-**IMoRe: Implicit Program-Guided Reasoning for Human Motion Q&A**  
+**IMoRe: Implicit Program-Guided Reasoning for Human Motion Q&A (ICCV 2025)**  
 Chen Li*, Chinthani Sugandhika*, Yeo Keat Ee, Eric Peh, Hao Zhang, Hong Yang, Deepu Rajan, Basura Fernando
-(ICCV 2025) 
+
+
+*Equal contribution.
 
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-2307.00586-b31b1b.svg)](https://arxiv.org/abs/2410.22829) -->
 
