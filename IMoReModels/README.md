@@ -19,7 +19,7 @@ Install [Jacinle](https://github.com/vacancy/Jacinle).
 
 ## Data
 - Due to data distribution policies of AMASS and BABEL, we follow the steps given in [BABEL-QA dataset](https://github.com/markendo/HumanMotionQA/tree/master/BABEL-QA) page, to generate the BABEL-QA dataset.
-- We perform additional preprocessing on top of the original BABEL-QA annotations. The resulting preprocessed data is available in the [IPGRM_preprocessing](./IPGRM_preprocessing/IPGRM_formatted_data) folder. *(Note: IPGRM refers to Implicit Program Guided Reasoning Module.)*
+- We perform additional preprocessing on top of the original BABEL-QA annotations. The resulting preprocessed data is available in the [IPGRM_preprocessing](./IPGRM_preprocessing/IPGRM_formatted_data) folder *(Note: IPGRM refers to Implicit Program Guided Reasoning Module)*.
 - Please place the [IPGRM_preprocessing](./IPGRM_preprocessing/IPGRM_formatted_data) directory inside both the IMoReI and IMoReII repositories.
 - To replicate the preprocessing pipeline, run the following commands:,
 ```bash
@@ -34,7 +34,7 @@ Download the pre-trained [HumanML3D Motion ViT](https://huggingface.co/line-corp
 
 ## Evaluation
 
-Weights for our trained IMoRe I and II mdoels can be found [here](https://drive.google.com/drive/folders/1JDQyXLfKdDA5o0cvD14IbXKtQFAh1Fad?usp=drive_link).
+Weights for our trained IMoRe I and II models can be found [here](https://drive.google.com/drive/folders/1JDQyXLfKdDA5o0cvD14IbXKtQFAh1Fad?usp=drive_link).
 
 To evaluate the models, run,
 ```bash

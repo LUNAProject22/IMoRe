@@ -24,9 +24,12 @@ To evaluate the generalizability of motion understanding models beyond the small
 
 > All classes are derived from a total of **1,311 motion sequences**.
 
-## Evaluation
+## Evaluation Metric
 
 - **Metric**: Accuracy is used as the primary evaluation criterion.
+
+## Licence
+HuMManQA dataset is under [S-Lab License v1.0](https://caizhongang.com/projects/HuMMan/license.txt).
 
 
 ## Download
