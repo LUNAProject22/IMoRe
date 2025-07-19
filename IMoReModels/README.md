@@ -26,7 +26,7 @@ Install [Jacinle](https://github.com/vacancy/Jacinle).
   python ./IPGRM_preprocessing/convert_BABELQA_to_GQA_format.py
   python ./IPGRM_preprocessing/create_BABELQA_qs_program_pairs.py
   python ./IPGRM_preprocessing/create_inputs_for_IPGRM_module.py
-  python ./IPGRM_preprocessing/calculate_mean_variance.py
+  python ./IPGRM_preprocessing/calculate_mean_variance.py 
 ```
 
 ## Pre-trained Motion ViT Weights
