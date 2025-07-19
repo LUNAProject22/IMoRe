@@ -28,7 +28,7 @@ To evaluate the generalizability of motion understanding models beyond the small
 
 - **Metric**: Accuracy is used as the primary evaluation criterion.
 
-## Licence
+## License
 HuMManQA dataset is under [S-Lab License v1.0](https://caizhongang.com/projects/HuMMan/license.txt).
 
 
