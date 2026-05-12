@@ -37,7 +37,13 @@ Please refer to [`HuMManQADataset/`](HuMManQADataset/)
 ## Citation
 If you use our code or HuMManQA dataset for your research, please cite our paper:
 ```bibtext
-To be added...
+@inproceedings{li2025imore,
+  title={IMoRe: Implicit Program-Guided Reasoning for Human Motion Q\&A},
+  author={Li, Chen and Sugandhika, Chinthani and Ee, Yeo Keat and Peh, Eric and Zhang, Hao and Yang, Hong and Rajan, Deepu and Fernando, Basura},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12987--12996},
+  year={2025}
+}
 ```
 
 ## Acknowledgments
